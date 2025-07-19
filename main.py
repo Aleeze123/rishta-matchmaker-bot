@@ -63,7 +63,12 @@ h3 {
 
 # --- Header ---
 st.markdown("<h1>💍 Rishta Matchmaker</h1>", unsafe_allow_html=True)
-st.markdown("<h3>Find your perfect match 💖</h3>", unsafe_allow_html=True)
+st.markdown("""
+    <p style='text-align: center; font-size: 16px; font-weight: normal; color: #cccccc;'>
+        Find your perfect match
+    </p>
+""", unsafe_allow_html=True)
+
 
 # --- Form ---
 with st.form("rishta_form"):
