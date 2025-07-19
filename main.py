@@ -73,7 +73,7 @@ with st.form("rishta_form"):
     gender = st.selectbox("Gender", ["Male", "Female"])
     city = st.text_input("Your City")
     profession = st.text_input("Your Profession")
-    recipient_number = st.text_input("Recipient's WhatsApp Number")
+    recipient_number = st.text_input("WhatsApp Number")
     submitted = st.form_submit_button("📨 Send Rishta")
 
 # --- Match Logic ---
