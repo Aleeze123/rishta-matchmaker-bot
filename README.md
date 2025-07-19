@@ -22,5 +22,4 @@ Because why swipe... when you can just send a rishta on WhatsApp? 😉
 
 ```bash
 streamlit run main.py
----
 
