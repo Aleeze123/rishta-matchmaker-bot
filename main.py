@@ -6,7 +6,7 @@ male_profiles = [
     {"name": "Hassan Khn", "age": 28, "city": "Lahore", "profession": "Software Engineer"},
     {"name": "Bilal ", "age": 39, "city": "Karachi", "profession": "Doctor"},
     {"name": "Usman Ali", "age": 26, "city": "Islamabad", "profession": "Businessman"},
-     {"name": "Fahad ", "age": 22, "city": "Islamabad", "profession": "Developer"}
+     {"name": "Talal ", "age": 22, "city": "Islamabad", "profession": "Developer"}
     
 ]
 
