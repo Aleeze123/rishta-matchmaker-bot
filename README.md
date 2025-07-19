@@ -15,6 +15,8 @@ Because why swipe... when you can just send a rishta on WhatsApp? 😉
 - 🎨 Clean, dark-themed UI — designed by **Alizah** 💅
 
 ---
+### Made with ❤️ by Alizah — your GenAI Rishta Expert 💍🤖
+
 
 ## 🚀 How to Run
 
@@ -22,4 +24,3 @@ Because why swipe... when you can just send a rishta on WhatsApp? 😉
 streamlit run main.py
 ---
 
-### Made with ❤️ by Alizah — your GenAI Rishta Expert 💍🤖
