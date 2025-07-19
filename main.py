@@ -114,7 +114,7 @@ _This proposal was sent via Rishta Matchmaker Bot 🤖_
 
             result = send_whatsapp_message(formatted_number, message)
             if result.get("sent"):
-                st.success(f"✅ Rishta sent to {match['name']} on WhatsApp!")
+                st.success(f"✅The proposal has been sent on WhatsApp")
             else:
                 st.error("❌ WhatsApp message failed to send.")
 
