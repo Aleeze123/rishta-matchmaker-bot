@@ -15,12 +15,6 @@ Because why swipe... when you can just send a rishta on WhatsApp? 😉
 
 ---
 
----
-
-## 🥂 Let’s keep the rishtas rolling!
-
----
-
 ### Made with ❤️ by Alizah — your GenAI Rishta Expert 💍🤖
 
 ## 🚀 How to Run
